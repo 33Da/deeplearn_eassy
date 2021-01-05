@@ -1,0 +1,3 @@
+[nose.plugins]
+dynamolocal = dynamo3.testing:DynamoLocalPlugin
+
